@@ -1,0 +1,21 @@
+{
+  "name": "xllmwiki",
+  "version": "0.1.2",
+  "description": "LLM-curated markdown knowledge base that compounds across sessions: ingest sources into atomic pages, query with citations, lint for rot.",
+  "author": {
+    "name": "moongtaeng",
+    "url": "https://github.com/moongtaeng"
+  },
+  "homepage": "https://github.com/moongtaeng/xllmwiki",
+  "repository": "https://github.com/moongtaeng/xllmwiki",
+  "license": "MIT",
+  "keywords": [
+    "knowledge-base",
+    "wiki",
+    "notes",
+    "markdown",
+    "second-brain",
+    "llm-wiki",
+    "obsidian"
+  ]
+}

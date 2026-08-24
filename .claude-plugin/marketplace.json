@@ -1,0 +1,14 @@
+{
+  "name": "xllmwiki",
+  "owner": {
+    "name": "moongtaeng",
+    "url": "https://github.com/moongtaeng"
+  },
+  "plugins": [
+    {
+      "name": "xllmwiki",
+      "source": "./",
+      "description": "LLM-curated markdown knowledge base that compounds across sessions: ingest sources into atomic cited pages, query with citations, lint for rot."
+    }
+  ]
+}
